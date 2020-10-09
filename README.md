@@ -4,6 +4,6 @@
 
 Game developed during Alura's Game Dev Javascript Immersion
 
-## :books: Languages, frameworks and libs
+## :books: Lib
 
 - [p5.js](https://p5js.org/)
